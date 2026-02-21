@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "勝ち戦",
+  "base_artist": "Tokyo Incidents",
+  "createdAt": "2026-02-21T16:35:03.304564Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kachi Ikusa [勝ち戦]",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/01_Kachi_Ikusa_[勝ち戦]_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "勝ち戦",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/02_勝ち戦_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "勝ち戦",
+      "artist": "Tokyo Jihen",
+      "has_synced": true,
+      "path": "select/03_勝ち戦_Tokyo_Jihen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "勝ち戦",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_勝ち戦_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "勝ち戦",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_02_勝ち戦_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "勝ち戦",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_03_勝ち戦_東京事変.txt"
+    }
+  ]
+}
